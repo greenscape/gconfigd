@@ -1,0 +1,2 @@
+# gconfigd
+Greenscape Config Server
